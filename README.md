@@ -20,4 +20,4 @@ docker run --gpus all -itd -v $PWD:/home --name emdedding_model_finetunning_test
 
 - bge_base_zh_eval.py: BGE-base-zh-v1.5模型评估，作为基线评估（baseline）
 
-评估结果参考 `docs/model_evaluation.md` 文档。
+评估结果参考 `docs/result.md` 文档。
